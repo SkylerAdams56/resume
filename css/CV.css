@@ -1,0 +1,26 @@
+
+h4{
+    color: #D94E4C;
+    font-size: 1.3em;
+    background-color: #D9D962 ;
+    padding:3px;
+}
+table{
+    width: 100%;
+}
+.r1{
+    color: #D9D962;
+    
+}
+.w1{
+    font-style: italic;
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 1.0em;
+}
+.t1{
+    background-color: #8C3A38;
+}
+.b1{
+    background-color: #6EAEDB;
+    font: normal normal normal 16pt/20pt Tahoma, Arial, sans-serif;
+}
